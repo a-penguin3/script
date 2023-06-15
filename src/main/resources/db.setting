@@ -1,0 +1,4 @@
+url = jdbc:mysql://localhost:3306/readtest
+
+user = root
+pass = 123456

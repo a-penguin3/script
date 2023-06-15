@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scirpt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scirpt_jar</output-path>
+    <root id="archive" name="scirpt.jar">
+      <element id="module-output" name="scirpt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/org/apache/poi/poi/3.8/poi-3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/commons-codec/commons-codec/1.5/commons-codec-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/com/alibaba/fastjson2/fastjson2/2.0.14/fastjson2-2.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/com/alibaba/fastjson2/fastjson2-extension/2.0.14/fastjson2-extension-2.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/com/alibaba/fastjson/2.0.14/fastjson-2.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../maven/repository/cn/hutool/hutool-all/5.8.11/hutool-all-5.8.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
